@@ -1,1 +1,5 @@
 testes
+
+git status - verificado estatus
+
+parabéns para vc -  canticos popular
